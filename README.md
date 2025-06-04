@@ -1,21 +1,23 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pXPlhKXe)
 # ペアワークによる共同作業練習
 
-# 
+# 課題部分
 
-## 上田良　
+## チームメンバー
+- 鴨下紹矢
+- 上田良
+
+### 鴨下紹矢（[葛本ゼミ](README.md#葛本先生の紹介)）
+- 趣味：ゲーム
+- 特技：ゲーム
 
 ### 上田良（[松本ゼミ](README.md#松本先生の紹介)）
 - 趣味：筋トレ
 - 特技：バスケ
 
-### 永山　進（[出原ゼミ](README.md#出原先生の紹介)）
-- 趣味：
-- 特技：
+## 葛本先生の紹介
 
-## 石川先生の紹介
-
-## 出原先生の紹介
+## 松本先生の紹介
 
 
 ## 作業上の注意
